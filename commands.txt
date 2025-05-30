@@ -1,0 +1,24 @@
+How to Run:
+
+Step 1: Create one environment
+python -m venv env
+
+Step 2: Activate the environment
+env\Scripts\activate
+
+Step 3: Install the libraries
+python -m pip install -r requirements.txt
+
+Step 4: Setup environement variables
+Create a .env file in your project folder and add your OpenAI API key and other environment variables
+OPENAI_API_KEY=your_openai_api_key
+
+Step 5: Save the code as app.py
+app.py
+
+Step 6: Run the code in command
+run: streamlit run app.py
+
+Step 7: Streamlit localhost configuration
+Port Configuration: By default, Streamlit uses port 8501. If you want to specify a different port (e.g., 8502)
+run : streamlit run app.py --server.port 8502
