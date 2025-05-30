@@ -15,13 +15,13 @@ Key features include:
 The system leverages LangChain for document loading, chunking, embedding, and retrieval chaining, providing a scalable and modular approach to building knowledge-driven AI applications.
 
 - Data root directory:
-<img src="https://github.com/krmanu07/RAG-Retrieval-Augmented-Generation-/blob/main/Output/data%20directory.png?raw=true" width="450" height="250">
+<img src="https://github.com/krmanu07/RAG-Retrieval-Augmented-Generation/blob/main/Output/data%20directory.png?raw=true" width="450" height="250">
 
 - Home Page
-<img src="https://github.com/krmanu07/RAG-Retrieval-Augmented-Generation-/blob/main/Output/HomePage.png?raw=true" width="850" height="450">
+<img src="https://github.com/krmanu07/RAG-Retrieval-Augmented-Generation/blob/main/Output/HomePage.png?raw=true" width="850" height="450">
 
 - Select your file type you want to process your data for Question-Answering
-<img src="https://github.com/krmanu07/RAG-Retrieval-Augmented-Generation-/blob/main/Output/FileType.png?raw=true" width="850" height="450">
+<img src="https://github.com/krmanu07/RAG-Retrieval-Augmented-Generation/blob/main/Output/FileType.png?raw=true" width="850" height="450">
 
 - Select your LLMs type
-<img src="https://github.com/krmanu07/RAG-Retrieval-Augmented-Generation-/blob/main/Output/LLMType.png?raw=true" width="850" height="450">
+<img src="https://github.com/krmanu07/RAG-Retrieval-Augmented-Generation/blob/main/Output/LLMType.png?raw=true" width="850" height="450">
